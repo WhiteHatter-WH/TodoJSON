@@ -109,7 +109,6 @@ export class App extends Component {
       })
   };
 
-  // // THIS FUCKEN THING WITH SPLICE DOESN'T WANT TO WORK, IDIOT, IT KILLED MY WHOLE DAY, FUCK!!!
   // removeTodo = (id) => {
   //   //  clear the data from UI
   //   const todos = [...this.state.todos]
